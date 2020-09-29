@@ -1,6 +1,10 @@
 # fitness_ui_app
 
 A new Flutter application.
+Fitness app ui with feature of changing Date /Day.
+
+
+
 ![Android Emulator - Nexus_6P_API_26_5554 29-09-2020 18_23_53](https://user-images.githubusercontent.com/71459989/94561412-9217c480-0281-11eb-887e-fdb81ca4c4ed.png)
 
 ## Getting Started
